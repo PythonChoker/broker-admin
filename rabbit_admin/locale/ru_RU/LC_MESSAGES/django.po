@@ -1,0 +1,103 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-12 17:53+0400\n"
+"PO-Revision-Date: 2025-02-12 17:54+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+
+#: .\rabbit_admin\emails_bz\models.py:6
+#: .\rabbit_admin\telegram_message\models.py:7
+msgid "Project"
+msgstr "Проект"
+
+#: .\rabbit_admin\emails_bz\models.py:7
+msgid "Subject"
+msgstr "Тема письма"
+
+#: .\rabbit_admin\emails_bz\models.py:8
+msgid "E-mail from"
+msgstr "E-mail отправителя"
+
+#: .\rabbit_admin\emails_bz\models.py:9
+msgid "E-mail to"
+msgstr "E-mail получателя"
+
+#: .\rabbit_admin\emails_bz\models.py:10
+msgid "API Key"
+msgstr "API-ключ"
+
+#: .\rabbit_admin\emails_bz\models.py:11 .\rabbit_admin\projects\models.py:6
+#: .\rabbit_admin\telegram_message\models.py:8
+msgid "Enabled"
+msgstr "Включить"
+
+#: .\rabbit_admin\emails_bz\models.py:12 .\rabbit_admin\projects\models.py:7
+#: .\rabbit_admin\telegram_message\models.py:11
+msgid "Created at"
+msgstr "Дата создания"
+
+#: .\rabbit_admin\emails_bz\models.py:13 .\rabbit_admin\projects\models.py:8
+#: .\rabbit_admin\telegram_message\models.py:12
+msgid "Updated at"
+msgstr "Дата последнего изменения"
+
+#: .\rabbit_admin\emails_bz\models.py:17 .\rabbit_admin\emails_bz\models.py:18
+msgid "SMTP BZ"
+msgstr "SMTP BZ"
+
+#: .\rabbit_admin\projects\models.py:5
+#: .\rabbit_admin\telegram_message\models.py:6
+msgid "Name"
+msgstr "Название"
+
+#: .\rabbit_admin\projects\models.py:12
+msgid "project"
+msgstr "проект"
+
+#: .\rabbit_admin\projects\models.py:13
+msgid "projects"
+msgstr "проекты"
+
+#: .\rabbit_admin\rabbit_admin\urls.py:21
+#: .\rabbit_admin\rabbit_admin\urls.py:22
+msgid "Integrations Manager"
+msgstr "Менеджер интеграций"
+
+#: .\rabbit_admin\rabbit_admin\urls.py:23
+msgid "Dashboard"
+msgstr "Панель управления"
+
+#: .\rabbit_admin\telegram_message\models.py:9
+msgid "Bot API Token"
+msgstr "API-токен бота"
+
+#: .\rabbit_admin\telegram_message\models.py:10
+msgid "Chat ID"
+msgstr "ID чата"
+
+#: .\rabbit_admin\telegram_message\models.py:16
+msgid "Telegram Message"
+msgstr "сообщение в Telegram"
+
+#: .\rabbit_admin\telegram_message\models.py:17
+msgid "Telegram Messages"
+msgstr "сообщения в Telegram"
+
+#~ msgid "Менеджер интеграций"
+#~ msgstr "Integrations Manager"
+
+#~ msgid "Панель управления"
+#~ msgstr "Dashboard"
